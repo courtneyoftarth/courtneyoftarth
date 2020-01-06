@@ -1,6 +1,5 @@
 import React from 'react';
-import Tweets from './Tweets';
-import './App.css';
+import StocksPage from './StocksPage';
 
 function App() {
 
@@ -11,17 +10,8 @@ function App() {
       '&redirect_uri=https://courtneyoftarth.github.io/stocks' + 
       '&scope=read,watch_lists,publish_messages,publish_watch_lists,follow_users,follow_stocks';
   }
-
-  const accessToken = window.location.hash.split('=')[1];
     
-  return (
-    <div className="App">
-      <p>
-        Access token is {accessToken}
-      </p>
-      <Tweets />
-    </div>
-  );
+  return <StocksPage />;
 }
 
 export default App;

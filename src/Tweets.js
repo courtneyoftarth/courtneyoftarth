@@ -3,11 +3,11 @@ import axios from 'axios';
 import styled from 'styled-components';
 
 const TweetsGrid = styled.table`
-    max-width: 700px;
+    max-width: 500px;
 `;
 
 const TweetMessage = styled.td`
-    padding: 50px;
+    padding: 20px;
 `;
 
 const TweetLikes = styled.td`
@@ -36,7 +36,7 @@ const Tweets = () => {
 
     return (
         <div>
-            <h1>Tweets about stocks you're tracking</h1>
+            <h2>Tweets about stocks you're tracking</h2>
             <TweetsGrid>
                 {tweets.map(({ body, likes }) => (
                     <TweetRow>
