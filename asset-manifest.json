@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/courtneyoftarth/static/css/main.d1b05096.chunk.css",
-    "main.js": "/courtneyoftarth/static/js/main.bd21d512.chunk.js",
-    "main.js.map": "/courtneyoftarth/static/js/main.bd21d512.chunk.js.map",
-    "runtime-main.js": "/courtneyoftarth/static/js/runtime-main.510cbdfa.js",
-    "runtime-main.js.map": "/courtneyoftarth/static/js/runtime-main.510cbdfa.js.map",
-    "static/js/2.7b29b5ae.chunk.js": "/courtneyoftarth/static/js/2.7b29b5ae.chunk.js",
-    "static/js/2.7b29b5ae.chunk.js.map": "/courtneyoftarth/static/js/2.7b29b5ae.chunk.js.map",
-    "index.html": "/courtneyoftarth/index.html",
-    "precache-manifest.0ce319e8c085efca2045f27325c4dc38.js": "/courtneyoftarth/precache-manifest.0ce319e8c085efca2045f27325c4dc38.js",
-    "service-worker.js": "/courtneyoftarth/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/courtneyoftarth/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.7b29b5ae.chunk.js.LICENSE": "/courtneyoftarth/static/js/2.7b29b5ae.chunk.js.LICENSE",
-    "static/media/logo.svg": "/courtneyoftarth/static/media/logo.5d5d9eef.svg"
+    "main.css": "/stocks/static/css/main.d1b05096.chunk.css",
+    "main.js": "/stocks/static/js/main.2861c081.chunk.js",
+    "main.js.map": "/stocks/static/js/main.2861c081.chunk.js.map",
+    "runtime-main.js": "/stocks/static/js/runtime-main.26604c7a.js",
+    "runtime-main.js.map": "/stocks/static/js/runtime-main.26604c7a.js.map",
+    "static/js/2.7b29b5ae.chunk.js": "/stocks/static/js/2.7b29b5ae.chunk.js",
+    "static/js/2.7b29b5ae.chunk.js.map": "/stocks/static/js/2.7b29b5ae.chunk.js.map",
+    "index.html": "/stocks/index.html",
+    "precache-manifest.2eba37921fe2dfa0044f63e906b52557.js": "/stocks/precache-manifest.2eba37921fe2dfa0044f63e906b52557.js",
+    "service-worker.js": "/stocks/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/stocks/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7b29b5ae.chunk.js.LICENSE": "/stocks/static/js/2.7b29b5ae.chunk.js.LICENSE",
+    "static/media/logo.svg": "/stocks/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.510cbdfa.js",
+    "static/js/runtime-main.26604c7a.js",
     "static/js/2.7b29b5ae.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.bd21d512.chunk.js"
+    "static/js/main.2861c081.chunk.js"
   ]
 }
